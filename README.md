@@ -1,2 +1,2 @@
 # SimpleMemGame
-Very Simple Memory Game
+Very Simple Memory Game added for practice.
